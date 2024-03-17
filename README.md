@@ -1,3 +1,6 @@
+# Link to demo
+https://youtu.be/jgQ431y84WA
+
 # Pixie Chat
 
 Pixie Chat is a real-time chat application designed for local development, allowing users to engage in instant conversations with others. Built using HTML, CSS, JavaScript, and PHP, Pixie Chat offers a seamless chatting experience within a familiar web environment. Utilizing XAMPP and MySQL via PHPMyAdmin, Pixie Chat provides a secure and efficient platform for communication.
